@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_4_1_Larin", "Task_4_1_Larin\Task_4_1_Larin.csproj", "{FCD6C79D-8EA7-46A2-BD5A-74026DA7B238}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_2", "Task_2\Task_2.csproj", "{9C73800E-2E5F-41F0-88B6-C4458C7F8F2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FCD6C79D-8EA7-46A2-BD5A-74026DA7B238}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCD6C79D-8EA7-46A2-BD5A-74026DA7B238}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCD6C79D-8EA7-46A2-BD5A-74026DA7B238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C73800E-2E5F-41F0-88B6-C4458C7F8F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C73800E-2E5F-41F0-88B6-C4458C7F8F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C73800E-2E5F-41F0-88B6-C4458C7F8F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C73800E-2E5F-41F0-88B6-C4458C7F8F2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
